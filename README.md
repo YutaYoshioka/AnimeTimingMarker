@@ -1,0 +1,2 @@
+# AnimeTimingMarker
+キーを押したタイミングをフレーム単位で記録する
